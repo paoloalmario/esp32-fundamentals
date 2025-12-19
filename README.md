@@ -44,10 +44,21 @@ I2C sensor communication.
 | tof-sensor | VL53L0X distance sensor |
 | tof-leds | Distance-controlled LED indicator |
 
-## Coming Soon
+### 04-esp-now
+Peer-to-peer communication without WiFi network.
 
-- **04-esp-now** - Peer-to-peer communication
-- **05-mqtt** - Network messaging
+| Exercise | Description |
+|----------|-------------|
+| mac-address | Get ESP32 MAC address for ESP-NOW setup |
+| sender-receiver | Basic sender and receiver pair |
+
+### 05-mqtt
+Network messaging via MQTT broker.
+
+| Exercise | Description |
+|----------|-------------|
+| button-led | Digital sensor to LED via MQTT |
+| analog-led | Analog sensor to LED via MQTT |
 
 ## Getting Started
 
@@ -60,7 +71,8 @@ I2C sensor communication.
    ```
 3. Install ESP32: Tools > Board > Boards Manager > "esp32"
 4. Select: Tools > Board > ESP32 Dev Module
-5. Open `.ino` file and upload
+5. Some boards require setting baud rate: Tools > Upload Speed > 115200
+6. Open `.ino` file and upload
 
 ### PlatformIO
 
