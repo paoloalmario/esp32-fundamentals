@@ -20,13 +20,15 @@ exercise-name/
 
 ## Modules
 
-Complete tutorials organized in progressive learning order:
+Complete tutorials organized in progressive learning order.
+
+**Note:** Modules 00-02 and 13 are conceptual introductions (no code). See the [full curriculum](https://paoloalmario.com/open-pedagogy/) for written content.
 
 | Module | Title | Description | Status |
 |--------|-------|-------------|--------|
-| 00 | Physical Computing | Foundational concepts | Planned |
-| 01 | ESP32 Introduction | Hardware specs and pinouts | Planned |
-| 02 | Workflow | Arduino IDE and PlatformIO setup | Planned |
+| 00 | Physical Computing | Foundational concepts | Conceptual |
+| 01 | ESP32 Introduction | Hardware specs and pinouts | Conceptual |
+| 02 | Workflow | Arduino IDE and PlatformIO setup | Conceptual |
 | 03 | Blink Builtin | Built-in LED blinking | Complete |
 | 04 | Blink External | External LED control | Planned |
 | 05 | Blink Multiple | Multiple LED patterns | Planned |
@@ -37,7 +39,7 @@ Complete tutorials organized in progressive learning order:
 | 10 | LDR LEDs | Light-dependent resistor control | Planned |
 | 11 | ToF Sensor | VL53L0X distance sensor | Complete |
 | 12 | ToF LEDs | Distance-controlled LED indicator | Complete |
-| 13 | ESP-NOW Intro | Peer-to-peer protocol basics | Planned |
+| 13 | ESP-NOW Intro | Peer-to-peer protocol basics | Conceptual |
 | 14 | ESP-NOW MAC | Get MAC address for pairing | Complete |
 | 15 | ESP-NOW ToF | Wireless sensor communication | Complete |
 | 16 | HTTP APIs | Web API consumption | Planned |
