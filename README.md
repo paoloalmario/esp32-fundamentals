@@ -20,45 +20,29 @@ exercise-name/
 
 ## Modules
 
-### 01-gpio
-Digital input/output fundamentals.
+Complete tutorials organized in progressive learning order:
 
-| Exercise | Description |
-|----------|-------------|
-| blink | Built-in LED blinking |
-| button | Button reading with serial output |
-| button-led | Button-controlled LED |
-
-### 02-analog
-Analog input reading.
-
-| Exercise | Description |
-|----------|-------------|
-| potentiometer | Read potentiometer/sensor values |
-
-### 03-i2c-sensors
-I2C sensor communication.
-
-| Exercise | Description |
-|----------|-------------|
-| tof-sensor | VL53L0X distance sensor |
-| tof-leds | Distance-controlled LED indicator |
-
-### 04-esp-now
-Peer-to-peer communication without WiFi network.
-
-| Exercise | Description |
-|----------|-------------|
-| mac-address | Get ESP32 MAC address for ESP-NOW setup |
-| sender-receiver | Basic sender and receiver pair |
-
-### 05-mqtt
-Network messaging via MQTT broker.
-
-| Exercise | Description |
-|----------|-------------|
-| button-led | Digital sensor to LED via MQTT |
-| analog-led | Analog sensor to LED via MQTT |
+| Module | Title | Description | Status |
+|--------|-------|-------------|--------|
+| 00 | Physical Computing | Foundational concepts | Planned |
+| 01 | ESP32 Introduction | Hardware specs and pinouts | Planned |
+| 02 | Workflow | Arduino IDE and PlatformIO setup | Planned |
+| 03 | Blink Builtin | Built-in LED blinking | Complete |
+| 04 | Blink External | External LED control | Planned |
+| 05 | Blink Multiple | Multiple LED patterns | Planned |
+| 06 | Relay | High-power device control | Planned |
+| 07 | Button | Digital input with serial output | Complete |
+| 08 | Button LED | Button-controlled LED | Complete |
+| 09 | Analog Sensors | Potentiometer/sensor reading | Complete |
+| 10 | LDR LEDs | Light-dependent resistor control | Planned |
+| 11 | ToF Sensor | VL53L0X distance sensor | Complete |
+| 12 | ToF LEDs | Distance-controlled LED indicator | Complete |
+| 13 | ESP-NOW Intro | Peer-to-peer protocol basics | Planned |
+| 14 | ESP-NOW MAC | Get MAC address for pairing | Complete |
+| 15 | ESP-NOW ToF | Wireless sensor communication | Complete |
+| 16 | HTTP APIs | Web API consumption | Planned |
+| 17 | MQTT Digital | Digital sensor via MQTT | Complete |
+| 18 | MQTT Analog | Analog sensor via MQTT | Complete |
 
 ## Getting Started
 
