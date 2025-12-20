@@ -6,18 +6,28 @@ The classic "Hello World" of embedded programming. Blinks the ESP32's built-in L
 
 ![Wiring diagram](schematic.png)
 
-No external wiring required. Uses onboard LED connected to GPIO 2.
+**Note:** The schematic shows an external LED on GPIO 13. The default code uses the built-in LED on GPIO 2 (no wiring required). To use the external LED as shown, change `LED_PIN` from `2` to `13` in the code.
 
 ## Hardware Required
 
+**For built-in LED (default):**
 - ESP32 development board (any model with onboard LED)
+- USB cable
+
+**For external LED (as shown in schematic):**
+- ESP32 development board
+- LED (any color)
+- 220Ω resistor
+- Breadboard and jumper wires
 - USB cable
 
 ## Pin Connections
 
-| Component | ESP32 Pin |
-|-----------|-----------|
-| Built-in LED | GPIO 2 |
+| Component | ESP32 Pin | Notes |
+|-----------|-----------|-------|
+| Built-in LED | GPIO 2 | Default, no wiring |
+| External LED (+) | GPIO 13 | Change `LED_PIN = 13` in code |
+| External LED (-) | GND | Via 220Ω resistor |
 
 ## Usage
 
