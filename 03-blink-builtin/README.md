@@ -4,6 +4,8 @@ The classic "Hello World" of embedded programming. Blinks the ESP32's built-in L
 
 ## Schematic
 
+![Wiring diagram](schematic.png)
+
 No external wiring required. Uses onboard LED connected to GPIO 2.
 
 ## Hardware Required
