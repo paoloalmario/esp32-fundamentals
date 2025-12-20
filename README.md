@@ -30,19 +30,19 @@ Complete tutorials organized in progressive learning order.
 | 01 | ESP32 Introduction | Hardware specs and pinouts | Conceptual |
 | 02 | Workflow | Arduino IDE and PlatformIO setup | Conceptual |
 | 03 | Blink Builtin | Built-in LED blinking | Complete |
-| 04 | Blink External | External LED control | Planned |
-| 05 | Blink Multiple | Multiple LED patterns | Planned |
-| 06 | Relay | High-power device control | Planned |
+| 04 | Blink External | External LED control | Complete |
+| 05 | Blink Multiple | Multiple LED patterns | Complete |
+| 06 | Relay | High-power device control | Complete |
 | 07 | Button | Digital input with serial output | Complete |
 | 08 | Button LED | Button-controlled LED | Complete |
 | 09 | Analog Sensors | Potentiometer/sensor reading | Complete |
-| 10 | LDR LEDs | Light-dependent resistor control | Planned |
+| 10 | LDR LEDs | Light-dependent resistor control | Complete |
 | 11 | ToF Sensor | VL53L0X distance sensor | Complete |
 | 12 | ToF LEDs | Distance-controlled LED indicator | Complete |
 | 13 | ESP-NOW Intro | Peer-to-peer protocol basics | Conceptual |
 | 14 | ESP-NOW MAC | Get MAC address for pairing | Complete |
 | 15 | ESP-NOW ToF | Wireless sensor communication | Complete |
-| 16 | HTTP APIs | Web API consumption | Planned |
+| 16 | HTTP APIs | Web API consumption | Complete |
 | 17 | MQTT Digital | Digital sensor via MQTT | Complete |
 | 18 | MQTT Analog | Analog sensor via MQTT | Complete |
 
