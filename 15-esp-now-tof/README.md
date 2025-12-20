@@ -4,8 +4,8 @@ Wireless distance sensing with ESP-NOW communication protocol. One ESP32 reads a
 
 ## Schematic
 
-![Sender](schematic-sender.png)
-![Receiver](schematic-receiver.png)
+<img src="schematic-sender.png" alt="Sender" width="500">
+<img src="schematic-receiver.png" alt="Receiver" width="500">
 
 ## Hardware Required
 

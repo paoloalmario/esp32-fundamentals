@@ -4,7 +4,7 @@ Controls three LEDs independently to create sequential lighting patterns. Demons
 
 ## Schematic
 
-![Wiring diagram](schematic.jpg)
+<img src="schematic.jpg" alt="Wiring diagram" width="500">
 
 ## Hardware Required
 

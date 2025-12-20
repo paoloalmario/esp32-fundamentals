@@ -4,7 +4,7 @@ Learn to read continuous analog values using the ESP32's 12-bit ADC (0-4095 rang
 
 ## Schematic
 
-![Wiring diagram](schematic.png)
+<img src="schematic.png" alt="Wiring diagram" width="500">
 
 ## Hardware Required
 

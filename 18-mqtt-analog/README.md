@@ -4,8 +4,8 @@ Transmitting continuous analog sensor data over MQTT. One ESP32 reads a photores
 
 ## Schematic
 
-![Sender](schematic-sender.png)
-![Receiver](schematic-receiver.png)
+<img src="schematic-sender.png" alt="Sender" width="500">
+<img src="schematic-receiver.png" alt="Receiver" width="500">
 
 ## Hardware Required
 

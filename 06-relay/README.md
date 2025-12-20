@@ -4,7 +4,7 @@ Controls a 5V relay module through transistor interface. Introduces voltage leve
 
 ## Schematic
 
-![Wiring diagram](schematic.png)
+<img src="schematic.png" alt="Wiring diagram" width="500">
 
 ## Hardware Required
 

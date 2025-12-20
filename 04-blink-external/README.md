@@ -4,7 +4,7 @@ First physical circuit: connecting an external LED to an ESP32 GPIO pin. Introdu
 
 ## Schematic
 
-![Wiring diagram](schematic.png)
+<img src="schematic.png" alt="Wiring diagram" width="500">
 
 ## Hardware Required
 

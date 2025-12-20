@@ -4,7 +4,7 @@ Read distance measurements from the VL53L0X Time-of-Flight sensor using I2C comm
 
 ## Schematic
 
-![Wiring diagram](schematic.png)
+<img src="schematic.png" alt="Wiring diagram" width="500">
 
 ## Hardware Required
 

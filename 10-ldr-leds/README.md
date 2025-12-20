@@ -4,7 +4,7 @@ Use a photoresistor (LDR) to control 3 LEDs based on light levels, demonstrating
 
 ## Schematic
 
-![Wiring diagram](schematic.png)
+<img src="schematic.png" alt="Wiring diagram" width="500">
 
 ## Hardware Required
 

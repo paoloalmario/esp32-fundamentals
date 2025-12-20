@@ -4,7 +4,7 @@ Combines digital input and output: button press controls LED state. Foundational
 
 ## Schematic
 
-![Wiring diagram](schematic.png)
+<img src="schematic.png" alt="Wiring diagram" width="500">
 
 ## Hardware Required
 

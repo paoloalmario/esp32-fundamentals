@@ -4,8 +4,8 @@ Internet-based communication between ESP32 devices using MQTT publish/subscribe 
 
 ## Schematic
 
-![Sender](schematic-sender.png)
-![Receiver](schematic-receiver.png)
+<img src="schematic-sender.png" alt="Sender" width="500">
+<img src="schematic-receiver.png" alt="Receiver" width="500">
 
 ## Hardware Required
 

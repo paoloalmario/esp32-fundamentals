@@ -4,7 +4,7 @@ Reads a pushbutton state and displays values in Serial Monitor. First introducti
 
 ## Schematic
 
-![Wiring diagram](schematic.png)
+<img src="schematic.png" alt="Wiring diagram" width="500">
 
 ## Hardware Required
 

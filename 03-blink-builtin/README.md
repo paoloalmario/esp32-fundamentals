@@ -4,7 +4,7 @@ The classic "Hello World" of embedded programming. Blinks the ESP32's built-in L
 
 ## Schematic
 
-![Wiring diagram](schematic.png)
+<img src="schematic.png" alt="Wiring diagram" width="500">
 
 **Note:** The schematic shows an external LED on GPIO 13. The default code uses the built-in LED on GPIO 2 (no wiring required). To use the external LED as shown, change `LED_PIN` from `2` to `13` in the code.
 

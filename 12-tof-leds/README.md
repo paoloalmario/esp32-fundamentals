@@ -4,7 +4,7 @@ Combine VL53L0X distance sensor with LEDs to create a visual proximity indicator
 
 ## Schematic
 
-![Wiring diagram](schematic.png)
+<img src="schematic.png" alt="Wiring diagram" width="500">
 
 ## Hardware Required
 
