@@ -4,7 +4,7 @@ Combine VL53L0X distance sensor with LEDs to create a visual proximity indicator
 
 ## Schematic
 
-Schematic includes both VL53L0X ToF sensor wiring (I2C) and 3 LEDs with current-limiting resistors.
+![Wiring diagram](schematic.png)
 
 ## Hardware Required
 

@@ -4,7 +4,7 @@ Reads a pushbutton state and displays values in Serial Monitor. First introducti
 
 ## Schematic
 
-Simple circuit: button between GPIO 13 and GND. Uses internal pull-up resistor (no external resistor needed).
+![Wiring diagram](schematic.png)
 
 ## Hardware Required
 

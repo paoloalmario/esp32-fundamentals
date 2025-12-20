@@ -4,7 +4,7 @@ Combines digital input and output: button press controls LED state. Foundational
 
 ## Schematic
 
-Two-component circuit: button with internal pull-up on GPIO 13, LED with resistor on GPIO 12.
+![Wiring diagram](schematic.png)
 
 ## Hardware Required
 
